@@ -1,0 +1,6 @@
+Answer the user question using this context:
+{context}
+
+
+Question:
+{question}

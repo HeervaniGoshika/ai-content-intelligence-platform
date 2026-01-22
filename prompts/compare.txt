@@ -1,0 +1,16 @@
+You are an expert content analyst.
+
+
+Compare the two contents:
+1) Common ideas
+2) Differences
+3) Which explains better and why
+4) What is missing in each
+
+
+Content A:
+{a}
+
+
+Content B:
+{b}

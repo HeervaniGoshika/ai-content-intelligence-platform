@@ -1,0 +1,9 @@
+You are an expert analyst.
+Summarize in:
+- Short summary
+- Key points
+- Action items
+
+
+Content:
+{context}

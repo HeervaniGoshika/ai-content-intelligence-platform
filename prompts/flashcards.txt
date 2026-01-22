@@ -1,0 +1,9 @@
+Create flashcards from this content.
+
+Format strictly as:
+Q: ...
+A: ...
+(Repeat for multiple cards)
+
+Content:
+{context}

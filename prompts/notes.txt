@@ -1,0 +1,7 @@
+Create clean, structured study notes with:
+- Headings
+- Bullet points
+- Examples where useful
+
+Content:
+{context}

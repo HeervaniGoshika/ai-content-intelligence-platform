@@ -1,0 +1,6 @@
+.env
+myenv/
+__pycache__/
+*.pyc
+vector_db/
+.DS_Store

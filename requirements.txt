@@ -1,0 +1,14 @@
+streamlit
+openai
+faster-whisper
+pytube
+yt-dlp
+pdfplumber
+sentence-transformers
+faiss-cpu
+langchain
+requests
+beautifulsoup4
+google-generativeai
+requests
+python-dotenv
